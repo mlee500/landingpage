@@ -1,4 +1,5 @@
 body, html {
+body, html {
     height: 100%;
     margin: 0;
     padding: 0;
@@ -44,12 +45,12 @@ body, html {
     justify-content: center;
     position: absolute;
     left: 80px;
-    width: 167.4px;
-    height: 35.3px;
+    width: 220px;           /* Increased width */
+    height: 55px;           /* Increased height */
     border: none;
     border-radius: 4px;
     font-family: 'Avenir', Arial, sans-serif;
-    font-size: 12px;
+    font-size: 20px;        /* Larger font size */
     font-weight: 700;
     text-decoration: none;
     cursor: pointer;
@@ -58,13 +59,13 @@ body, html {
 }
 
 .donate-btn {
-    top: 407.3px;
+    top: 520px;             /* Moved further down */
     background: #ffc907;
     color: #111;
 }
 
 .learn-btn {
-    top: 452.6px; /* 407.3px + 35.3px + 10px gap */
+    top: 585px;             /* Moved further down, below donate-btn */
     background: #fff;
     color: #111;
     border: 2px solid #ffc907;
