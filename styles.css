@@ -74,7 +74,7 @@ body, html {
 .logo {
     position: absolute;
     left: 80px;
-    top: 780px;         /* Lowered further down */
+    top: 950px;         /* Lowered further down */
     width: 300px;       /* Made larger */
     height: auto;
     object-fit: contain;
