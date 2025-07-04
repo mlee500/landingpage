@@ -75,7 +75,7 @@ body, html {
     position: absolute;
     left: 80px;
     top: 780px;         /* Lowered further down */
-    width: 180px;       /* Made larger */
+    width: 300px;       /* Made larger */
     height: auto;
     object-fit: contain;
     background: rgba(255,255,255,0.0);
