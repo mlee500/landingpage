@@ -1,0 +1,10 @@
+##Prompt 1
+Your task is to create HTML and CSS for a non-profit organization website focused on providing fresh water to communities in need. 
+
+This will be the background image for the website: https://dpmk.in/i/HBycz127F6
+The header will say "Turn Your Passion Into Impact", and will be written in proxima nova in the color white, font size 32. The position of x is 80px and the y is 143.4px. 
+The subheader will be located at x 80px and Y 276px. The subheader will also he colored white and written in proxima nova with a font size of 12. The subheader will say "BE THE REASON A VILLAGE DRINKS CLEAN WATER - 100% of your donation goes directly to clean water projects, and you’ll receive proof of every well you help build. "
+Add a button that is the color #ffc907. The width of the button is 167.4px and the height of the button is 35.3px. It is positioned at x 80px and y 407.3px. Inside the button is black text written in proxima nova that says "Take Action Now >". The font size of the text is 12.
+This button should be a link to the donation page, which is https://www.charitywater.org/?utm_source=adwords&utm_medium=paid-ppc&utm_campaign=spring-acq-usrow&utm_term=cBC_CW_G_PAID_SEARCH_BRAND_ALL_US+ROW_OBSV_ALL_PHRASE_ALL&utm_content=branded&gad_source=1&gad_campaignid=22148602074&gbraid=0AAAAADNj5D_Y3uoDBgCceR3oYB168NsRN&gclid=Cj0KCQjw953DBhCyARIsANhIZobpl_0sZ6UqGqXYgRUmTxD05LZuuVGYNtM4FXHtHQhgopZrDBnTdygaAqyoEALw_wcB 
+Under the first button, add a second button that is the size as the first button. This button will say "Learn More >" and will link to the about page of the organization, which is https://www.charitywater.org/about?_gl=1*4ptk3o*_up*MQ..*_gs*MQ..&gclid=Cj0KCQjw953DBhCyARIsANhIZobpl_0sZ6UqGqXYgRUmTxD05LZuuVGYNtM4FXHtHQhgopZrDBnTdygaAqyoEALw_wcB&gbraid=0AAAAADNj5D_Y3uoDBgCceR3oYB168NsRN
+In the position of x 80px and y 701.9px, add this logo image: https://drive.google.com/file/d/1Jk9PoC_m5G1jq1I84x_5ym_t-J0ZSfnL/view 
