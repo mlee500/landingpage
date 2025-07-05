@@ -80,3 +80,86 @@ body, html {
     object-fit: contain;
     background: rgba(255,255,255,0.0);
 }
+
+@media (max-width: 1200px) {
+    .header,
+    .subheader,
+    .btn,
+    .logo {
+        left: 40px;
+    }
+    .subheader {
+        width: 90vw;
+        max-width: 600px;
+    }
+    .logo {
+        top: 900px;
+    }
+}
+
+@media (max-width: 900px) {
+    .header {
+        font-size: 36px;
+        top: 80px;
+    }
+    .subheader {
+        font-size: 18px;
+        top: 160px;
+        width: 90vw;
+        max-width: 400px;
+    }
+    .btn {
+        width: 180px;
+        height: 48px;
+        font-size: 16px;
+    }
+    .donate-btn {
+        top: 320px;
+    }
+    .learn-btn {
+        top: 380px;
+    }
+    .logo {
+        width: 120px;
+        top: 500px;
+    }
+    .hero {
+        min-height: 600px;
+    }
+}
+
+@media (max-width: 600px) {
+    .header {
+        font-size: 24px;
+        top: 40px;
+        left: 16px;
+    }
+    .subheader {
+        font-size: 14px;
+        top: 90px;
+        left: 16px;
+        width: 90vw;
+        max-width: 90vw;
+    }
+    .btn {
+        width: 90vw;
+        min-width: 0;
+        left: 16px;
+        height: 44px;
+        font-size: 14px;
+    }
+    .donate-btn {
+        top: 180px;
+    }
+    .learn-btn {
+        top: 230px;
+    }
+    .logo {
+        width: 90px;
+        top: 320px;
+        left: 16px;
+    }
+    .hero {
+        min-height: 400px;
+    }
+}
